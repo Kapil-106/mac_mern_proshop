@@ -1,3 +1,6 @@
+
+// after backend to front end coonection through axios as backend already have the products.js 
+//so on front end its required so this file cen be deleted  
 const products = [
   {
     _id: '1',
